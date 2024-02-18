@@ -13,7 +13,7 @@ Step-by-step instructions on how to install the project locally:
 
 
 
-git clone <repository_url>
+git clone https://github.com/EfsaTortukk/Ball-Squad-Task.git
    ```
 2. Navigate to the project directory:
    ```
